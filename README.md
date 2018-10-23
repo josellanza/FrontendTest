@@ -1,7 +1,7 @@
 # FrontendTest
 
 # Run server
-node index.js
+node index.js -- localhost:1337
 Build all the app with Javascript DOM manipulation 
 
 ## GOALS
